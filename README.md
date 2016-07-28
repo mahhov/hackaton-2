@@ -1,9 +1,9 @@
-Hackathon2
+Hackathon2 (24 hour)
 ==========
 
 ~Oct 13
 
-https://www.youtube.com/watch?v=jLhvlGLbCyQ
+https://www.youtube.com/watch?v=jLhvlGLbCyQ  
 https://www.youtube.com/watch?v=10IzGE4BwHo
 
 
@@ -13,7 +13,7 @@ This is a platformer shooting game. It is multiplayer (only 2 players currently)
  are done on java's graphics2D.
 
 Fetures  
-particles
-colors
-multiplayer with lobby
-sound and music
+particles  
+colors  
+multiplayer with lobby  
+sound and music  
