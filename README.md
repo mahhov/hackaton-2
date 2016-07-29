@@ -3,6 +3,7 @@ Hackathon2 (24 hour)
 
 ~Oct 13
 
+featuring the UI and Lobby Libraries created by scratch: https://youtu.be/8VE_OXNxTMI   
 https://www.youtube.com/watch?v=jLhvlGLbCyQ  
 https://www.youtube.com/watch?v=10IzGE4BwHo
 
